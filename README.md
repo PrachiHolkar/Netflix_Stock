@@ -51,7 +51,7 @@ The dataset includes historical daily stock prices for Netflix:
 - Lowest Close Price:	$0.37
 - Date of Low:	October 9, 2002
 
-- Netflix’s stock price grew by approximately 335,243% from its lowest point ($0.37 on 2002-10-09) to its highest ($1250.52 on 2025-06-05) — that's massive growth! 
+- Netflix’s stock price grew by approximately 337,878% from its lowest point ($0.37 on 2002-10-09) to its highest ($1250.52 on 2025-06-05) — that's massive growth! 
 
 ---
 
